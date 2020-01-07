@@ -51,6 +51,7 @@ abstract class PortAbstract
 	 * @var int
 	 */
 	protected $amount;
+	protected $confpath;
 
 	/**
 	 * Description of transaction
